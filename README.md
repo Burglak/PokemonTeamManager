@@ -9,4 +9,5 @@ Simple application to manage your pokemon team. Designed for project for college
 
 ## Login panel
 
-Login panel is just an example of how it may look like if I implemented accounts for each user
+Login panel is just an example of how it may look like if I implemented accounts for each user.
+For now everybody can make an account and log in.

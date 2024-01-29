@@ -4,7 +4,8 @@ Simple application to manage your pokemon team. Designed for project for college
 
 ## Installation
 
--Install app in your desired location\n
+-Install app in your desired location
+
 -Installer automatically places the database file in C:\baza_pokemon
 
 ## Login panel

@@ -1,6 +1,6 @@
 # PokemonTeamManager
 
-Simple application to manage your pokemon team. Designed for project for college.
+Simple application to manage your pokemon team. Designed for a college project
 
 ## Installation
 

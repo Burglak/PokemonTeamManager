@@ -20,4 +20,4 @@ Password: student
 ## Screenshots
 
 ![Screenshot](ptm1.png)
-![Screenshot](ptm2.png)
+![Screenshot](ptm2.PNG)
